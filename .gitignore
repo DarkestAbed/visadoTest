@@ -1,0 +1,11 @@
+# folders
+venv/
+__pycache__/
+.vscode/
+tests/
+# files
+.tool-versions
+.DS_Store
+.env*
+*.log
+config_tests.py
